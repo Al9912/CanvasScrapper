@@ -4,5 +4,5 @@ This program will pull all the data on you canvas and save on your machine local
 
 How to use instructions:
 
-1) Go to the file canvasScrappingMain.py
+1) Go to the file canvasScrappingMain.py inside of the folder 
 2) 
